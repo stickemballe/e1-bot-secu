@@ -301,13 +301,10 @@ def callback_handler(call):
             "Les commandes se font via <b>WhatsApp Standard</b> de 10h à 19h.\n"
             "Les précommandes pour le lendemain débutent à 20h.\n\n"
             "<b><u>🚚 Horaires des tournées (7j/7) :</u></b>\n"
-            "    • <b>Première :</b> départ à 12h30\n"
-            "    • <b>Deuxième :</b> départ à 15h30\n"
-            "    • <b>Troisième :</b> départ à 18h30\n\n"
-            "Une <b>quatrième tournée</b> (départ 20h) est ajoutée le vendredi et le samedi.\n\n"
-            "Nous livrons dans toute l'<b>Île-de-France</b> pour toute commande de 120€ ou plus.\n\n"
-            "<b><u>📍 Meet-up (remise en main propre) :</u></b>\n"
-            "Minimum de commande de 50€.\n\n"
+            "    • <b>MATIN :</b> Dès 09h00\n"
+            "    • <b>SOIR :</b> Dès 15h00\n"
+            "Nous livrons dans toute l'<b>Île-de-France et le 60</b> pour toute commande de 120€ ou plus.\n\n"
+            "Nous livrons dans le<b>45 - 27 - 28 - 02</b> pour toute commande de 500€ ou plus.\n\n"
             "Merci de votre confiance ! 🏆"
         )
         try:
