@@ -28,6 +28,16 @@ MINIAPP_URL = "https://menu-e1.com/"
 BOT_VERIFY_URL = "https://menu-e1.com/bot-verify"
 IMAGE_ACCUEIL_URL = "https://file.garden/aIhdnTgFPho75N46/E1%20SHOP/image-acceuil.jpg"
 WHATSAPP_LINK = "https://wa.me/33610629997"
+TELEGRAM_ACTIF_URL = "https://t.me/+Q8O4r1fAeig4N2Zk"
+TELEGRAM_SECOUR_URL = "https://t.me/+1h6vWY7uD6YyMzM0"
+TELEGRAM_PHOTOS_URL = "https://t.me/+0TYAKxHdA3RiYTY0"
+TELEGRAM_CHAT_URL = "https://t.me/+RLReHTKl0y1iY2M0"
+TELEGRAM_LEON_URL = "https://t.me/JuJu_de_retour"
+LUFFA_URL = "https://callup.luffa.im/g/M36Sfr5Ue1U"
+INSTAGRAM_URL = "https://www.instagram.com/entrepot1_officielle?igsh=..."
+SNAPCHAT_URL = "https://snapchat.com/t/x5PyNR4Z"
+POTATO_URL = "https://ptdl159.org/ENTREPOT1PARISOFFICIEL"
+
 
 # --- Validations minimales ---
 if not BOT_TOKEN or not CAPTCHA_SECRET_KEY:
