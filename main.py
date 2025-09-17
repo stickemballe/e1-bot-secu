@@ -301,7 +301,7 @@ def callback_handler(call):
             "Les commandes se font via <b>WhatsApp Standard</b> de 09h à 21h <b>La veille pour le lendemain</b>.\n"
             "<b><u>🚚 Horaires des tournées (7j/7) :</u></b>\n"
             "    • <b>MATIN :</b> Dès 09h00\n"
-            "    • <b>SOIR :</b> Dès 15h00\n"
+            "    • <b>SOIR :</b> Dès 15h00\n\n"
             "Nous livrons dans toute l'<b>Île-de-France et le 60</b> pour toute commande de 120€ ou plus.\n\n"
             "Nous livrons dans le<b>45 - 27 - 28 - 02</b> pour toute commande de 500€ ou plus.\n\n"
             "Merci de votre confiance ! 🏆"
