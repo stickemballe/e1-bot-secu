@@ -298,8 +298,7 @@ def callback_handler(call):
         # On préfère ÉDITER pour éviter d’empiler des messages (1 seul message visuel vit)
         texte_infos = (
             "<b><u>ℹ️ Prise de commandes & Livraison</u></b>\n\n"
-            "Les commandes se font via <b>WhatsApp Standard</b> de 10h à 19h.\n"
-            "Les précommandes pour le lendemain débutent à 20h.\n\n"
+            "Les commandes se font via <b>WhatsApp Standard</b> de 09h à 21h <b>La veille pour le lendemain</b>.\n"
             "<b><u>🚚 Horaires des tournées (7j/7) :</u></b>\n"
             "    • <b>MATIN :</b> Dès 09h00\n"
             "    • <b>SOIR :</b> Dès 15h00\n"
