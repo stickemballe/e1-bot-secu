@@ -27,7 +27,7 @@ def infoscommande_keyboard() -> InlineKeyboardMarkup:
 def contacts_keyboard() -> InlineKeyboardMarkup:
     kb = InlineKeyboardMarkup(row_width=1)
     kb.add(
-        InlineKeyboardButton("☎️ WhatsApp Standard ☎️", url=config.WHATSAPP_LINK),
+        InlineKeyboardButton("☎️ WhatsApp Léon Centrale ☎️", url=config.WHATSAPP_LINK),
     )
     kb.row(
         InlineKeyboardButton("◀️ Retour", callback_data="menu_principal"),
@@ -38,7 +38,16 @@ def contacts_keyboard() -> InlineKeyboardMarkup:
 def liens_keyboard() -> InlineKeyboardMarkup:
     kb = InlineKeyboardMarkup(row_width=1)
     kb.add(
-        InlineKeyboardButton("☎️ WhatsApp Standard ☎️", url=config.WHATSAPP_LINK),
+        InlineKeyboardButton("☎️ WhatsApp Léon Centrale ☎️", url=config.WHATSAPP_LINK),
+        InlineKeyboardButton("📲 Nouveau Canal Actif ✅", url=config.TELEGRAM_ACTIF_URL),
+        InlineKeyboardButton("📲 Canal de Secour 🚨", url=config.TELEGRAM_SECOUR_URL),
+        InlineKeyboardButton("📲 Canal Photos 📸", url=config.TELEGRAM_PHOTOS_URL),
+        InlineKeyboardButton("📲 Chat Retours 📩", url=config.TELEGRAM_CHAT_URL),
+        InlineKeyboardButton("📲 Telegram Léon Centrale ☎️", url=config.TELEGRAM_LEON_URL),
+        InlineKeyboardButton("🆕 LUFFA 🆕️", url=config.LUFFA_URL),
+        InlineKeyboardButton("📸 Instagram 📸", url=config.INSTAGRAM_URL),
+        InlineKeyboardButton("👻 Snapchat 👻", url=config.SNAPCHAT_URL),
+        InlineKeyboardButton("🥔 Potato 🥔", url=config.POTATO_URL),
     )
     kb.row(
         InlineKeyboardButton("◀️ Retour", callback_data="menu_principal"),
